@@ -1,8 +1,5 @@
-body{
 
-    background-image:url("vizag.jpg");
-    background-size: cover;
- }
+
  h1{
     font-size: 40px;
    border: 10px red solid;
@@ -29,7 +26,6 @@ body{
     font-size: xx-large;
    
     font-family: "Caveat", cursive;
-    color: rgb(0, 11, 12);
+    color: rgb(236, 234, 234);
 }
-
 
